@@ -18,7 +18,7 @@ Visualize the data using power Bi
 ## Content created by [ApplAi](https://www.linkedin.com/company/applaiasu/mycompany/)
 
 
-**Directed By:**
+**Directed By: **
 - Director of Machine Learning and Training Department: [Eslam Shouman](https://www.linkedin.com/in/eslam-shouman-0958091b4/)
 
 **Team leader:**
